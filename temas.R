@@ -16,10 +16,10 @@ library(ggraph)
 ## authenticate via access token
 token <- create_token(
   app = "DatosTW",
-  consumer_key = '',
-  consumer_secret = '',
-  access_token = '',
-  access_secret = '')
+  consumer_key = 'wHi83tXey4C0NUxtmNp2l2tPB',
+  consumer_secret = 'RZ8IToGIdQeqvVCb02GjE0LY2gkxcEYsNbJFiEXaQEKVoG7n5E',
+  access_token = '14668027-bYuTiAatusB3HDMEgCWwNjn3hw2TbJiK0u4s8vVft',
+  access_secret = 'AsZeRPUVZAoBuYBVPo5qlRM9ZaMHYhnEXy3mqReJ4HGrn')
 
 
 #Hashtags
